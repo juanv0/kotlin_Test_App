@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustForVolley</string>
+    <string name="loading_msg">Loading...</string>
+    <string name="heigwithvalue">match_parent</string>
+</resources>

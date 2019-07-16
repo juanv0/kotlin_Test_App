@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="league_size">24sp</dimen>
+    <dimen name="activity_margin_default_value">50dp</dimen>
+    <dimen name="layout_padding_value">5dp</dimen>
+    <dimen name="listitem_padding_value">10dp</dimen>
+    <dimen name="margin_default_value">30dp</dimen>
+    <dimen name="fontsize_default_value">21sp</dimen>
+    <dimen name="item_header_fontsize">40sp</dimen>
+    <dimen name="item_content_fontsize">18sp</dimen>
+    <dimen name="search_text_fontsize">20sp</dimen>
+    <dimen name="layout_padding_bottom_value">15dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>
